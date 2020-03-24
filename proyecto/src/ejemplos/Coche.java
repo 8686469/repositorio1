@@ -7,7 +7,7 @@ package ejemplos;
 
 /**
  *
- * @author alumno
+ * @author MD
  */
 public class Coche {
 
